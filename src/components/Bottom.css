@@ -1,0 +1,17 @@
+.Bottom{
+    width:100%;
+    
+    position:fixed;
+    bottom: 0px;
+    border-top:#ccc solid 1px;
+    background-color: #fff;
+}
+.Bottom-nav{
+  width:33%;
+  float:left;
+  text-align: center;
+}
+.s{
+   font-size:10px;
+   color:rgba(0, 0, 0, 0.65);
+}

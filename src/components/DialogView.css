@@ -1,0 +1,60 @@
+.mask-ctn {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, .6);
+    z-index:1;
+}
+  
+.dialog-ctn {
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    width: 250px;
+    height: 300px;
+    margin-left: -100px;
+    margin-top: -150px;
+    background-color: #fff;
+    border-radius: 4px;
+}
+  
+.close-btn {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: #fff;
+}
+  
+.id_content{
+    position: relative;
+    top:60px;
+}
+.id_content_input{
+    border:solid #ccc 1px;
+    border-radius: 2px;
+    padding-left:5px;
+}
+.tel_content{
+    position: relative;
+    top:80px;
+}
+.tel_content_input{
+    border:solid #ccc 1px;
+    margin-left:13px;
+    border-radius: 2px;
+    padding-left:5px;
+}
+input::-webkit-input-placeholder{
+    font-size:12px;
+}
+.ensure_btn{
+    position: relative;
+    top:150px;
+    border:solid #1890ff 1px;
+    border-radius: 5px;
+    background-color: #1890ff;
+    color:#fff;
+    padding:5px 20px 5px 20px;
+}

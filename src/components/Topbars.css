@@ -1,0 +1,20 @@
+.Topbars{
+    display:flex;
+    flex-direction: column;
+    background-color:#1890ff;
+    height:50px;
+    width:100%;
+    position:fixed; 
+    z-index:2; 
+    margin-top:-20px;
+}
+.Topbars-font{
+    color:#fff;
+    font-size:16px;
+    margin:auto;
+}
+.Topbars-font img{
+    position: absolute;
+    left:0px;
+    top:18px;
+}

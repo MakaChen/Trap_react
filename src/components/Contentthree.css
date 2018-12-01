@@ -1,0 +1,127 @@
+
+.user-top{
+    width:100%;
+    height:155px;
+    background: url('../img/4.PNG') no-repeat;
+    background-size:cover;
+
+}
+.user-tel{
+    width:50%;
+    margin:0 auto;
+    text-align: center;
+    position: relative;
+    top:50px;
+    font-size: 12px;
+    color:#7A7A7A;
+}
+.user-state{
+    width:50%;
+    margin:0 auto;
+    text-align: center;
+    position: relative;
+    top:60px;
+    font-size: 12px;
+    color:#7A7A7A;
+    font-size:10px;
+}
+.nav{
+    background-color: #F0F0F0;
+    height:350px;
+    overflow-y: hidden;
+}
+.nav-top{
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+}
+.all-reserve{
+    height:35px;
+    font-size:12px;
+    border-bottom: #ccc solid 1px;
+}
+.all-reserve img{
+    margin:12px 10px 0px;
+}
+.reserve-font{
+    position: relative;
+    top:7px;
+    color:rgba(0, 0, 0, 0.65);
+}
+.other-reserve{
+    height:35px;
+    display: flex;
+    flex-direction: row;
+    font-size:12px;
+}
+.no-cost{
+    width:50%;
+    text-align: center;
+    border-right:#ccc solid 1px;
+    height:20px;
+    position: relative;
+    top:7px;
+}
+.no-cost img{
+    margin-right:10px;
+}
+.no-live{
+    width:50%;
+    text-align: center;
+    position: relative;
+    top:7px;
+}
+.no-live img{
+    margin-right:8px;
+}
+.icon {
+    float:right;
+}
+
+  
+
+.nav-middle{
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    margin-top:10px;
+}
+.integral{
+    height:35px;
+    font-size:12px;
+    border-bottom: #ccc solid 1px;
+}
+.balance{
+    height:35px;
+    font-size:12px;
+    border-bottom: #ccc solid 1px;
+}
+.redbag{
+    height:35px;
+    font-size:12px;
+    border-bottom: #ccc solid 1px;
+}
+.crad{
+    height:35px;
+    font-size:12px;
+    border-bottom: #ccc solid 1px;
+}
+.service{
+    height:35px;
+    font-size:12px;
+    border-bottom: #ccc solid 1px;
+}
+.user-all{
+    position: relative;
+    top:8px;
+}
+.nav-footer{
+    text-align: center;
+    margin-top:10px;
+}
+.off-btn{
+    width:90%;
+    height: 30px;
+    border:#fff solid 1px;
+    background-color: #fff;
+}
